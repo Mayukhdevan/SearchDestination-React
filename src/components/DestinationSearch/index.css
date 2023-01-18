@@ -25,7 +25,8 @@
   margin-bottom: 4rem;
   background-color: #f1f5f9;
   border: none;
-  padding: 1rem 2rem;
+  outline: none;
+  padding: 1rem 4rem 1rem 2rem;
   border-radius: 15px;
   height: 65px;
   width: 430px;
